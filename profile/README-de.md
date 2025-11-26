@@ -2,8 +2,8 @@
 
 | Sprache |
 |:---:|
-| [🇸🇰 Slowakisch](README-sk.md) |
-| [🇬🇧 Englisch](README.md) |
+| [🇸🇰 Slowakisch](/profile/README-sk.md) |
+| [🇬🇧 Englisch](/profile/README.md) |
 
 ### 🧑‍💻 Frontend Architekt & Spezialist für Extreme Datenoptimierung
 
