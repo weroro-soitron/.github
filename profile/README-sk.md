@@ -1,5 +1,10 @@
 # Ahoj, som Weroro 👋
 
+| Jazyk |
+|:---:|
+| [🇬🇧 Angličtina](README.md) |
+| [🇩🇪 Nemčina](README-de.md) |
+
 ### 🧑‍💻 Frontend Architekt & Špecialista na extrémnu optimalizáciu dát
 
 Aktuálne pôsobím ako **Fullstack Developer pre projekt NEV/MOSY**. S **viac ako 20-ročnými skúsenosťami** vo webových technológiách sa primárne zameriavam na **Frontend Vývoj**,
