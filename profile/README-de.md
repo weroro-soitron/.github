@@ -12,7 +12,7 @@ spezialisiert auf **JavaScript** und **TypeScript**.
 
 ---
 
-## 🔬 Spezialisierung: Extreme Optimierung (Daten & Performance)
+## 🔬 Spezialisierung: Extreme Optimierung (Daten und Performance)
 
 Meine Kernkompetenz liegt in der Erzielung **hoher bis extremer Daten- und Performance-Optimierung** für Webanwendungen.
 
