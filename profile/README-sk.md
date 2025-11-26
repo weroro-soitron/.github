@@ -12,7 +12,7 @@ Aktuálne pôsobím ako **Fullstack Developer pre projekt NEV/MOSY**. S **viac a
 
 ---
 
-## 🔬 Špecializácia: Extrémna Optimalizácia (Dáta & Výkon)
+## 🔬 Špecializácia: Extrémna Optimalizácia (Dáta a Výkon)
 
 Moja kľúčová expertíza spočíva v dosahovaní **vysokej až extrémnej optimalizácie dát a výkonu** webových aplikácií.
 
