@@ -2,8 +2,8 @@
 
 | Jazyk |
 |:---:|
-| [🇬🇧 Angličtina](README.md) |
-| [🇩🇪 Nemčina](README-de.md) |
+| [🇬🇧 Angličtina](/profile/README.md) |
+| [🇩🇪 Nemčina](/profile/README-de.md) |
 
 ### 🧑‍💻 Frontend Architekt & Špecialista na extrémnu optimalizáciu dát
 
