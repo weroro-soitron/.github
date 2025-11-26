@@ -1,5 +1,10 @@
 # Hallo, ich bin Weroro 👋
 
+| Sprache |
+|:---:|
+| [🇸🇰 Slowakisch](README-sk.md) |
+| [🇬🇧 Englisch](README.md) |
+
 ### 🧑‍💻 Frontend Architekt & Spezialist für Extreme Datenoptimierung
 
 Ich diene derzeit als **Fullstack Developer für das NEV/MOSY-Projekt**. Mit **über 20 Jahren Erfahrung** in Web-Technologien liegt mein primärer Fokus auf der **Frontend-Entwicklung**,
