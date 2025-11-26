@@ -2,8 +2,8 @@
 
 | Language |
 |:---:|
-| [🇸🇰 Slovak Version](README-sk.md) |
-| [🇩🇪 German Version](README-de.md) |
+| [🇸🇰 Slovak](README-sk.md) |
+| [🇩🇪 German](README-de.md) |
 
 ### 🧑‍💻 Frontend Architect & Extreme Data Optimization Specialist
 
