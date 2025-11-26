@@ -2,8 +2,8 @@
 
 | Language |
 |:---:|
-| [🇸🇰 Slovak](./README-sk.md) |
-| [🇩🇪 German](./README-de.md) |
+| [🇸🇰 Slovak](/profile/README-sk.md) |
+| [🇩🇪 German](/profile/README-de.md) |
 
 ### 🧑‍💻 Frontend Architect & Extreme Data Optimization Specialist
 
