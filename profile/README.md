@@ -7,10 +7,11 @@ specializing in **JavaScript** and **TypeScript**.
 
 ---
 
-## 🔬 Specialization: Extreme Data Optimization
+## 🔬 Specialization: Extreme Optimization (Data & Performance)
 
-My core expertise lies in achieving **high-to-extreme data optimization** for web applications, with the goal of
-reducing the final bundle size to the absolute minimum.
+My core expertise lies in achieving **high-to-extreme data and performance optimization** for web applications.
+
+The primary goal is to reduce the final bundle size to the absolute minimum, while also **improving application speed, achieving data savings, and maximizing battery preservation on mobile devices.** I also strongly emphasize **code clarity and modularity** with the ultimate, data-driven constraint being the **smallest possible resulting size of the final application**.
 
 I am the developer of the **PI-API** programming technique, designed to significantly optimize the minification process
 for JS/TS application bundles. This technique is primarily leveraged with minifiers like **Terser**, but is designed to
