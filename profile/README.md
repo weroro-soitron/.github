@@ -1,8 +1,13 @@
 # Hi there, I'm Weroro 👋
 
+| Language |
+|:---:|
+| [🇸🇰 Slovak Version](README-sk.md) |
+| [🇩🇪 German Version](README-de.md) |
+
 ### 🧑‍💻 Frontend Architect & Extreme Data Optimization Specialist
 
-I currently serve as the **Lead Fullstack Developer for the NEV/MOSY project**. With **over 20 years of experience** in web technologies, my primary focus revolves around **Frontend Development**,
+I currently serve as the **Fullstack Developer for the NEV/MOSY project**. With **over 20 years of experience** in web technologies, my primary focus revolves around **Frontend Development**,
 specializing in **JavaScript** and **TypeScript**.
 
 ---
@@ -40,7 +45,7 @@ Here are the languages I love and dedicate my time to the most:
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 More about me
 
 |                                                                                                              |                                                                                                      |
 |:-------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------|
