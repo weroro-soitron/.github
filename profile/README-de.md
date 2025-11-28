@@ -5,7 +5,7 @@
 | [🇸🇰 Slowakisch](/profile/README-sk.md) |
 | [🇬🇧 Englisch](/profile/README.md) |
 
-### 🧑‍💻 Frontend Architekt & Spezialist für Extreme Datenoptimierung
+### 🧑‍💻 Frontend Architekt und Spezialist für Extreme Datenoptimierung
 
 Ich diene derzeit als **Fullstack Developer für das NEV/MOSY-Projekt**. Mit **über 20 Jahren Erfahrung** in Web-Technologien liegt mein primärer Fokus auf der **Frontend-Entwicklung**,
 spezialisiert auf **JavaScript** und **TypeScript**.
