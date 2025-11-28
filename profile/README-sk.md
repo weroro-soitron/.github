@@ -5,7 +5,7 @@
 | [🇬🇧 Angličtina](/profile/README.md) |
 | [🇩🇪 Nemčina](/profile/README-de.md) |
 
-### 🧑‍💻 Frontend Architekt & Špecialista na extrémnu optimalizáciu dát
+### 🧑‍💻 Frontend Architekt a Špecialista na extrémnu optimalizáciu dát
 
 Aktuálne pôsobím ako **Fullstack Developer pre projekt NEV/MOSY**. S **viac ako 20-ročnými skúsenosťami** vo webových technológiách sa primárne zameriavam na **Frontend Vývoj**,
 špecializujúc sa na **JavaScript** a **TypeScript**.
